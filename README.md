@@ -1,2 +1,6 @@
 # HR_DataSet
-Ajustando uma base de RH
+Uma simples análise em uma base.
+
+* Criando novas colunas
+* Formatando datas
+* Ajustando colunas existentes
